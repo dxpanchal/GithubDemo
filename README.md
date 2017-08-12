@@ -1,4 +1,5 @@
 # GithubDemo
+[![](https://jitpack.io/v/dxpanchal/GithubDemo.svg)](https://jitpack.io/#dxpanchal/GithubDemo)
 
 Step 1: Add it in your root build.gradle at the end of repositories:
 
